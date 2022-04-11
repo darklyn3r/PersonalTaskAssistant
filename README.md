@@ -13,3 +13,5 @@ Personal Task Assistant
 *https://developers.google.com/apps-script/reference/calendar/calendar
 
 *https://developers.google.com/apps-script/reference/calendar/calendar-event
+
+*https://telegram-bot-sdk.readme.io/reference/getme
