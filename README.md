@@ -15,3 +15,5 @@ Personal Task Assistant
 *https://developers.google.com/apps-script/reference/calendar/calendar-event
 
 *https://telegram-bot-sdk.readme.io/reference/getme
+
+*https://internetpasoapaso.com/limites-cuentas-telegram/#:~:text=A%20través%20de%20un%20Bot,la%20dirección%20URL%20a%20Telegram.
