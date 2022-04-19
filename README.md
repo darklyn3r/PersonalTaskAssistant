@@ -2,6 +2,8 @@
 Personal Task Assistant
 
 # Resources:
+*https://jsbin.com/?js,console
+
 *https://developers.google.com/calendar/api/v3/reference/events
 
 *https://developers.google.com/calendar/api/v3/reference/calendars
