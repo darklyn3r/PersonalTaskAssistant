@@ -24,6 +24,8 @@ Personal Task Assistant
 
 *https://core.telegram.org/bots/
 
+*https://core.telegram.org/bots/api
+
 *https://core.telegram.org/bots/samples
 
 *https://monsterdeveloper.gitbooks.io/writing-telegram-bots-on-java/content/ 
