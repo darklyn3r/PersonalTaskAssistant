@@ -39,3 +39,5 @@ Personal Task Assistant
 *https://github.com/mullwar/telebot/tree/master/examples
 
 *https://www.digitalocean.com/community/tutorials/how-to-index-split-and-manipulate-strings-in-javascript-es
+
+*https://rdrr.io/cran/telegram.bot/man/sendChatAction.html
