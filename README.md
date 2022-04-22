@@ -41,3 +41,5 @@ Personal Task Assistant
 *https://www.digitalocean.com/community/tutorials/how-to-index-split-and-manipulate-strings-in-javascript-es
 
 *https://rdrr.io/cran/telegram.bot/man/sendChatAction.html
+
+*https://tecnonucleous.com/creacion-de-bots-de-telegram-en-nodejs/
